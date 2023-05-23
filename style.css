@@ -22,6 +22,10 @@ nav {
     margin-left: 10%;
 }
 
+#cartasTicket{
+    margin-right: 10%;
+    margin-left: 10%;
+}
 
 #cartas button {
     --bs-btn-padding-y: .0rem;
@@ -53,6 +57,9 @@ footer .row {
     margin-left: 10%;
 }
 
+#total{
+    margin-left: 20px;
+}
 @media (min-width: 992px) {
     .navbar-brand {
         margin-left: 100px;
@@ -67,6 +74,12 @@ footer .row {
         padding: 10%;
         padding-left: 0%;
     }
+
+    #cartasTicket{
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+    
 
     form {
         margin-right: 25%;
